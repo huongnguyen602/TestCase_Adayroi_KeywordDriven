@@ -1,0 +1,9 @@
+#HOME_PAGE
+hover_MyAccount =.//*[@class = 'header-username']
+click_SignIn =.//div[@class ='row']/div[2]/button/div
+
+#SIGNIN_PAGE
+txt_UserName =.//*[@id="j_username"]
+txt_Password =.//*[@id="j_password"]
+click_SignInConfirmation =.//*[@class='btn btn-primary btn-block js-login-btn']
+
