@@ -4,7 +4,7 @@ public class Constants {
 	public static final String URL = "https://www.adayroi.com/";
 	public static final String Path_TestData = "..\\TestCase_Adayroi_KeywordDriven\\src\\test\\java\\Demo\\TestCase_Adayroi_KeywordDriven\\dataEngine\\";
 	public static final String File_TestData = "testcase.xlsx";
-	public static final String Path_Driver = "..\\drivers\\chromedriver.exe";
+	public static final String Path_Driver = "drivers\\chromedriver.exe";
 	public static final String Path_OR = "..\\TestCase_Adayroi_KeywordDriven\\src\\test\\java\\Demo\\TestCase_Adayroi_KeywordDriven\\config\\OR.txt";
 
 	// List of Data Sheet Column Numbers
